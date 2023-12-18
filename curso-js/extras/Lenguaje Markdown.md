@@ -54,3 +54,4 @@ Enlace interno
 ```markdown
 ![[fichero-imagen]]
 ```
+![[gamepad.jpg]]
