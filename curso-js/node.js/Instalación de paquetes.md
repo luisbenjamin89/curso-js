@@ -1,8 +1,8 @@
 
 ## Objetivos
 
-- [ ] Instalar librerías para un proyecto base 
-- [ ] Buscar librerías en el repositorio de npm
+- [ ] Instalar librerías para un proyecto base  📅 2023-12-19 
+- [ ] Buscar librerías en el repositorio de npm 📅 2023-12-19 
 
 
 ## Instalación de paquetes
