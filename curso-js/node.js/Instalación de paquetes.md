@@ -7,7 +7,8 @@
 
 ## Instalación de paquetes
 
-Producción
+### Producción:
+Paquetes que enriquecen nuestro sitio web, como un mapa de Google, un formulario de contacto, un chat de whatsapp...
 
 ```bash
 npm install --save-prod <nombre paquete>
@@ -15,7 +16,8 @@ npm install --save-prod <nombre paquete>
 npm i <nombre paquete>
 ```
 
-Desarrollo
+### Desarrollo
+Paquetes que formateen el código, que avisen de errores de código, hace minify del código, comprime imágenes sin perdida de calidad...
 
 ```bash
 npm install --save-dev <nombre paquete>
